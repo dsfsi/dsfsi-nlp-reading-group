@@ -1,6 +1,6 @@
 # DSFSI NLP Reading Group :books::books:
 
-This repo is based on [Awesome reading group](https://github.com/hadyelsahar/awesome-reading-group This reading group is organized a weekly 60-90 minute meetings once a week. No one is expected prepare slides and/or read the paper in depth. This makes it agile and highly sustainable. For 2020 we will be following the Stanford NLP course. 
+This repo is based on [Awesome reading group](https://github.com/hadyelsahar/awesome-reading-group). This reading group is organized a weekly 60-90 minute meetings once a week. No one is expected prepare slides and/or read the paper in depth. This makes it agile and highly sustainable. For 2020 we will be following the Stanford NLP course. 
 
 Please feel free to give any feedback on current organisation as a new issue to this repository - it can be adapted to our needs.   
 
